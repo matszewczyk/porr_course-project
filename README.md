@@ -1,2 +1,2 @@
-# projekt-porr
-Optymalizacja: Strategia ewolucyjna - algorytm koewolucyjny
+Parallel and Distributed Programming course project. 
+Implementation of coevolutionary algorithm.
